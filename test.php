@@ -19,12 +19,3 @@ function sum($a, $b)
 {
 	return $a + $b;
 }
-
-/*
- R      CorseeDocsRelease
- R      CrossCompiler
- R      ReleaseDPT4
- R W    TryAndGo
- R W    font_resource
- R W    ui_resource
- */
